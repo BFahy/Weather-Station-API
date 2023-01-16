@@ -1,3 +1,3 @@
 # Weather-Station-API
 
-MongoDB <-> API assessment using weather station sample data
+Assessment using weather station sample data for API interacting with noSQL mongoDB database.
