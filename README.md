@@ -1,6 +1,7 @@
 # Weather-Station-API
 
 Weather station API assessment involving manipulating weather station sample data from a MongoDB database.
+
 Contains:
 - GET/PUT/POST/PATCH/DELETE
 - API key custom authentication attribute
